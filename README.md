@@ -6,7 +6,7 @@
 1. All
 2. Problems
 
-   - LeetCode 75 
+   - [LeetCode 75](https://github.com/Ajay-Dhangar/LeetCode/tree/main/Problems/LeetCode%2075)
    ________________
    
    - Algorithm I
