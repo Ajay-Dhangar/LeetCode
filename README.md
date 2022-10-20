@@ -1,7 +1,5 @@
 # LeetCode
 
-![LeetCode](https://user-images.githubusercontent.com/99037494/197001790-9755fa18-0ff1-41ba-9bed-4fe02c31b5ed.png)
-
 ### Problem Solving in ```JAVA``` Language
 
 
