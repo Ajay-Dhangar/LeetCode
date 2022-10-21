@@ -9,7 +9,7 @@
    - [LeetCode 75](https://github.com/Ajay-Dhangar/LeetCode/tree/main/Problems/LeetCode%2075)
    ________________
    
-   - Algorithm I
+   - [Algorithm I](https://github.com/ajaydhangar49/LeetCode/tree/main/Problems/Algorithm/Algorithm%20I)
    - Algorithm II
    - Algorithm III 
    _________________
