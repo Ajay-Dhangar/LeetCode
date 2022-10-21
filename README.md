@@ -44,7 +44,7 @@
    
    ____________________
    
-   - Binary Search I
+   - [Binary Search I](https://github.com/ajaydhangar49/LeetCode/tree/main/Problems/Binary%20Search/Binary%20Search%20I)
    - Binary Search II
    - Binary Search III
    
