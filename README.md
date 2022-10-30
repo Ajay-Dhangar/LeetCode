@@ -10,19 +10,19 @@
    ________________
    
    - [Algorithm I](https://github.com/ajaydhangar49/LeetCode/tree/main/Problems/Algorithm/Algorithm%20I)
-   - Algorithm II
-   - Algorithm III 
+   - [Algorithm II]()
+   - [Algorithm III]()
    _________________
    
    - [Data Structure I](https://github.com/ragini49/LeetCode/tree/main/Problems/Data%20Structure/Data%20Structure%20I)
-   - Data Structure II
-   - Data Structure III
+   - [Data Structure II]()
+   - [Data Structure III]()
    
    ________________
    
    - [SQL I](https://github.com/ragini49/LeetCode/tree/main/Problems/SQL/SQL%20I)
-   - SQL II
-   - SQL III
+   - [SQL II]()
+   - [SQL III]()
    
    _________________
    
